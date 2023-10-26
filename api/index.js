@@ -6,7 +6,7 @@ const multer=require("multer");
 var app=Express();
 app.use(cors());
 
-var CONNECTION_STRING="mongodb+srv://likhitha:12345@cluster0.cwf8gfs.mongodb.net/?retryWrites=true&w=majority";
+var CONNECTION_STRING="mongodb+srv://username:password@cluster0.cwf8gfs.mongodb.net/?retryWrites=true&w=majority";
 
 
 
